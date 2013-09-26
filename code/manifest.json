@@ -1,0 +1,16 @@
+{"content_security_policy": "script-src 'self' https://github.com; object-src 'self';", "content_scripts": [
+    {
+        "all_frames": true,
+        "exclude_globs": [],
+        "exclude_matches": [],
+        "include_globs": [],
+        "js": ["jquery.min.js", "scrumworks.js"],
+        "matches": ["https://portal.activenetwork.com/*", "http://scrumworks.dev.activenetwork.com/*"],
+        "css": ["css/scrumworks.css"],
+        "run_at": "document_idle"
+    }
+], "converted_from_user_script": true, "description": "Scrum Works Daily", "name": "My scrum works for Chrome", "version": "1.0", "manifest_version": 2, "icons": {
+    "16": "icons/icon_16.png",
+    "32": "icons/icon_32.png",
+    "48": "icons/icon_48.png"
+}, "homepage_url": "http://scrumworks.dev.activenetwork.com/scrumworks/taskboard", "permissions": ["https://*.activenetwork.com/", "https://portal.activenetwork.com/scrumworks/*", "https://fndsvn.dev.activenetwork.com/hackathon/Lloyd_Sabrina/code/chrome/*", "clipboardWrite", "clipboardRead", "tabs"]}

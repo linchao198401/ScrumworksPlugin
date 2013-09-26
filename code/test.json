@@ -1,0 +1,947 @@
+{"rfp": {
+    "rfpName": "Copy of Grace Test Draft 01",
+    "rfpTitle": "Event Name - Testing",
+    "source": "StarCite Mpoint",
+    "sourceApplication": "StarCite Mpoint",
+    "plannerPreferredMeetingDate": {
+        "shoulderStartDate": "2013-10-01",
+        "meetingStartDate": "2013-10-02",
+        "meetingEndDate": "2013-10-10",
+        "shoulderEndDate": "2013-10-12"
+    },
+    "responseDueDate": "2013-09-30",
+    "currencyCode": "USD",
+    "plannerProfile": {
+        "profileType": "PUBLIC",
+        "accountOID": "5188E38D-C4A1-4C25-BEFC-05F9BA108450",
+        "clientCompanyName": "common rfp ep2",
+        "contact": {
+            "emails": [
+                {
+                    "emailAddress": "carfptest@activenetwork.com",
+                    "isPrimary": true
+                }
+            ],
+            "firstName": "Monica",
+            "lastName": "Galler"
+        }
+    },
+    "sleepingRoomRequirement": {
+        "sleepingRoomBlocks": [
+            {
+                "roomBlockDays": [
+                    {
+                        "dayNumber": 1,
+                        "isShoulderDate": true,
+                        "roomOccupants": [
+                            {
+                                "occupantCount": 2,
+                                "roomQuantity": 8
+                            }
+                        ]
+                    }
+                ],
+                "roomBlockName": "Main Block",
+                "sleepingRoomType": "DOUBLE_DOUBLE"
+            },
+            {
+                "roomBlockDays": [
+                    {
+                        "dayNumber": 2,
+                        "isShoulderDate": false,
+                        "roomOccupants": [
+                            {
+                                "occupantCount": 2,
+                                "roomQuantity": 8
+                            }
+                        ]
+                    }
+                ],
+                "roomBlockName": "Main Block",
+                "sleepingRoomType": "DOUBLE_DOUBLE"
+            },
+            {
+                "roomBlockDays": [
+                    {
+                        "dayNumber": 3,
+                        "isShoulderDate": false,
+                        "roomOccupants": [
+                            {
+                                "occupantCount": 2,
+                                "roomQuantity": 8
+                            }
+                        ]
+                    }
+                ],
+                "roomBlockName": "Main Block",
+                "sleepingRoomType": "DOUBLE_DOUBLE"
+            },
+            {
+                "roomBlockDays": [
+                    {
+                        "dayNumber": 4,
+                        "isShoulderDate": false,
+                        "roomOccupants": [
+                            {
+                                "occupantCount": 2,
+                                "roomQuantity": 8
+                            }
+                        ]
+                    }
+                ],
+                "roomBlockName": "Main Block",
+                "sleepingRoomType": "DOUBLE_DOUBLE"
+            },
+            {
+                "roomBlockDays": [
+                    {
+                        "dayNumber": 5,
+                        "isShoulderDate": false,
+                        "roomOccupants": [
+                            {
+                                "occupantCount": 2,
+                                "roomQuantity": 8
+                            }
+                        ]
+                    }
+                ],
+                "roomBlockName": "Main Block",
+                "sleepingRoomType": "DOUBLE_DOUBLE"
+            },
+            {
+                "roomBlockDays": [
+                    {
+                        "dayNumber": 6,
+                        "isShoulderDate": false,
+                        "roomOccupants": [
+                            {
+                                "occupantCount": 2,
+                                "roomQuantity": 9
+                            }
+                        ]
+                    }
+                ],
+                "roomBlockName": "Main Block",
+                "sleepingRoomType": "DOUBLE_DOUBLE"
+            },
+            {
+                "roomBlockDays": [
+                    {
+                        "dayNumber": 7,
+                        "isShoulderDate": false,
+                        "roomOccupants": [
+                            {
+                                "occupantCount": 2,
+                                "roomQuantity": 9
+                            }
+                        ]
+                    }
+                ],
+                "roomBlockName": "Main Block",
+                "sleepingRoomType": "DOUBLE_DOUBLE"
+            },
+            {
+                "roomBlockDays": [
+                    {
+                        "dayNumber": 8,
+                        "isShoulderDate": false,
+                        "roomOccupants": [
+                            {
+                                "occupantCount": 2,
+                                "roomQuantity": 9
+                            }
+                        ]
+                    }
+                ],
+                "roomBlockName": "Main Block",
+                "sleepingRoomType": "DOUBLE_DOUBLE"
+            },
+            {
+                "roomBlockDays": [
+                    {
+                        "dayNumber": 9,
+                        "isShoulderDate": false,
+                        "roomOccupants": [
+                            {
+                                "occupantCount": 2,
+                                "roomQuantity": 9
+                            }
+                        ]
+                    }
+                ],
+                "roomBlockName": "Main Block",
+                "sleepingRoomType": "DOUBLE_DOUBLE"
+            },
+            {
+                "roomBlockDays": [
+                    {
+                        "dayNumber": 10,
+                        "isShoulderDate": true,
+                        "roomOccupants": [
+                            {
+                                "occupantCount": 2,
+                                "roomQuantity": 9
+                            }
+                        ]
+                    }
+                ],
+                "roomBlockName": "Main Block",
+                "sleepingRoomType": "DOUBLE_DOUBLE"
+            },
+            {
+                "roomBlockDays": [
+                    {
+                        "dayNumber": 11,
+                        "isShoulderDate": true,
+                        "roomOccupants": [
+                            {
+                                "occupantCount": 2,
+                                "roomQuantity": 9
+                            }
+                        ]
+                    }
+                ],
+                "roomBlockName": "Main Block",
+                "sleepingRoomType": "DOUBLE_DOUBLE"
+            }
+        ],
+        "comments": "88888"
+    },
+    "meetingRoomRequirement": {
+        "meetingRoomBlocks": [
+            {
+                "eventBlockDays": [
+                    {
+                        "dayNumber": 1,
+                        "startTime": "02:00:00.000",
+                        "endTime": "03:00:00.000",
+                        "eventSetupType": "BANQUET",
+                        "roomSize": {
+                            "size": 23.0,
+                            "measurementUnits": "SQUARE_METERS"
+                        },
+                        "attendeeQuantity": 23,
+                        "isTwentyFourHourHold": true,
+                        "eventName": "风光好",
+                        "comments": "2323"
+                    }
+                ],
+                "eventBlockName": "Day_1_LUNCH_1",
+                "eventType": "LUNCH"
+            },
+            {
+                "eventBlockDays": [
+                    {
+                        "dayNumber": 1,
+                        "startTime": "02:00:00.000",
+                        "endTime": "03:00:00.000",
+                        "eventSetupType": "BANQUET",
+                        "roomSize": {
+                            "size": 23.0,
+                            "measurementUnits": "SQUARE_METERS"
+                        },
+                        "attendeeQuantity": 23,
+                        "isTwentyFourHourHold": true,
+                        "eventName": "sdfsdf",
+                        "comments": "232323"
+                    }
+                ],
+                "eventBlockName": "Day_1_AUDIO_VISUAL_2",
+                "eventType": "AUDIO_VISUAL"
+            },
+            {
+                "eventBlockDays": [
+                    {
+                        "dayNumber": 2,
+                        "startTime": "02:00:00.000",
+                        "endTime": "03:00:00.000",
+                        "eventSetupType": "BANQUET",
+                        "roomSize": {
+                            "size": 23.0,
+                            "measurementUnits": "SQUARE_METERS"
+                        },
+                        "attendeeQuantity": 23,
+                        "isTwentyFourHourHold": true,
+                        "eventName": "风光好",
+                        "comments": "2323"
+                    }
+                ],
+                "eventBlockName": "Day_2_LUNCH_1",
+                "eventType": "LUNCH"
+            },
+            {
+                "eventBlockDays": [
+                    {
+                        "dayNumber": 2,
+                        "startTime": "02:00:00.000",
+                        "endTime": "03:00:00.000",
+                        "eventSetupType": "BANQUET",
+                        "roomSize": {
+                            "size": 23.0,
+                            "measurementUnits": "SQUARE_METERS"
+                        },
+                        "attendeeQuantity": 23,
+                        "isTwentyFourHourHold": true,
+                        "eventName": "sdfsdf",
+                        "comments": "232323"
+                    }
+                ],
+                "eventBlockName": "Day_2_AUDIO_VISUAL_2",
+                "eventType": "AUDIO_VISUAL"
+            },
+            {
+                "eventBlockDays": [
+                    {
+                        "dayNumber": 3,
+                        "startTime": "02:00:00.000",
+                        "endTime": "03:00:00.000",
+                        "eventSetupType": "BANQUET",
+                        "roomSize": {
+                            "size": 23.0,
+                            "measurementUnits": "SQUARE_METERS"
+                        },
+                        "attendeeQuantity": 23,
+                        "isTwentyFourHourHold": true,
+                        "eventName": "sdfsdf",
+                        "comments": "232323"
+                    }
+                ],
+                "eventBlockName": "Day_3_AUDIO_VISUAL_1",
+                "eventType": "AUDIO_VISUAL"
+            },
+            {
+                "eventBlockDays": [
+                    {
+                        "dayNumber": 3,
+                        "startTime": "02:00:00.000",
+                        "endTime": "03:00:00.000",
+                        "eventSetupType": "BANQUET",
+                        "roomSize": {
+                            "size": 23.0,
+                            "measurementUnits": "SQUARE_METERS"
+                        },
+                        "attendeeQuantity": 23,
+                        "isTwentyFourHourHold": true,
+                        "eventName": "风光好",
+                        "comments": "2323"
+                    }
+                ],
+                "eventBlockName": "Day_3_LUNCH_2",
+                "eventType": "LUNCH"
+            },
+            {
+                "eventBlockDays": [
+                    {
+                        "dayNumber": 4,
+                        "startTime": "02:00:00.000",
+                        "endTime": "03:00:00.000",
+                        "eventSetupType": "BANQUET",
+                        "roomSize": {
+                            "size": 23.0,
+                            "measurementUnits": "SQUARE_METERS"
+                        },
+                        "attendeeQuantity": 23,
+                        "isTwentyFourHourHold": true,
+                        "eventName": "sdfsdf",
+                        "comments": "232323"
+                    }
+                ],
+                "eventBlockName": "Day_4_AUDIO_VISUAL_1",
+                "eventType": "AUDIO_VISUAL"
+            },
+            {
+                "eventBlockDays": [
+                    {
+                        "dayNumber": 4,
+                        "startTime": "02:00:00.000",
+                        "endTime": "03:00:00.000",
+                        "eventSetupType": "BANQUET",
+                        "roomSize": {
+                            "size": 23.0,
+                            "measurementUnits": "SQUARE_METERS"
+                        },
+                        "attendeeQuantity": 23,
+                        "isTwentyFourHourHold": true,
+                        "eventName": "风光好",
+                        "comments": "2323"
+                    }
+                ],
+                "eventBlockName": "Day_4_LUNCH_2",
+                "eventType": "LUNCH"
+            },
+            {
+                "eventBlockDays": [
+                    {
+                        "dayNumber": 5,
+                        "startTime": "02:00:00.000",
+                        "endTime": "03:00:00.000",
+                        "eventSetupType": "BANQUET",
+                        "roomSize": {
+                            "size": 23.0,
+                            "measurementUnits": "SQUARE_METERS"
+                        },
+                        "attendeeQuantity": 23,
+                        "isTwentyFourHourHold": true,
+                        "eventName": "风光好",
+                        "comments": "2323"
+                    }
+                ],
+                "eventBlockName": "Day_5_LUNCH_1",
+                "eventType": "LUNCH"
+            },
+            {
+                "eventBlockDays": [
+                    {
+                        "dayNumber": 5,
+                        "startTime": "02:00:00.000",
+                        "endTime": "03:00:00.000",
+                        "eventSetupType": "BANQUET",
+                        "roomSize": {
+                            "size": 23.0,
+                            "measurementUnits": "SQUARE_METERS"
+                        },
+                        "attendeeQuantity": 23,
+                        "isTwentyFourHourHold": true,
+                        "eventName": "sdfsdf",
+                        "comments": "232323"
+                    }
+                ],
+                "eventBlockName": "Day_5_AUDIO_VISUAL_2",
+                "eventType": "AUDIO_VISUAL"
+            },
+            {
+                "eventBlockDays": [
+                    {
+                        "dayNumber": 6,
+                        "startTime": "02:00:00.000",
+                        "endTime": "03:00:00.000",
+                        "eventSetupType": "BANQUET",
+                        "roomSize": {
+                            "size": 23.0,
+                            "measurementUnits": "SQUARE_METERS"
+                        },
+                        "attendeeQuantity": 23,
+                        "isTwentyFourHourHold": true,
+                        "eventName": "sdfsdf",
+                        "comments": "232323"
+                    }
+                ],
+                "eventBlockName": "Day_6_AUDIO_VISUAL_1",
+                "eventType": "AUDIO_VISUAL"
+            },
+            {
+                "eventBlockDays": [
+                    {
+                        "dayNumber": 6,
+                        "startTime": "02:00:00.000",
+                        "endTime": "03:00:00.000",
+                        "eventSetupType": "BANQUET",
+                        "roomSize": {
+                            "size": 23.0,
+                            "measurementUnits": "SQUARE_METERS"
+                        },
+                        "attendeeQuantity": 23,
+                        "isTwentyFourHourHold": true,
+                        "eventName": "风光好",
+                        "comments": "2323"
+                    }
+                ],
+                "eventBlockName": "Day_6_LUNCH_2",
+                "eventType": "LUNCH"
+            },
+            {
+                "eventBlockDays": [
+                    {
+                        "dayNumber": 7,
+                        "startTime": "02:00:00.000",
+                        "endTime": "03:00:00.000",
+                        "eventSetupType": "BANQUET",
+                        "roomSize": {
+                            "size": 23.0,
+                            "measurementUnits": "SQUARE_METERS"
+                        },
+                        "attendeeQuantity": 23,
+                        "isTwentyFourHourHold": true,
+                        "eventName": "sdfsdf",
+                        "comments": "232323"
+                    }
+                ],
+                "eventBlockName": "Day_7_AUDIO_VISUAL_1",
+                "eventType": "AUDIO_VISUAL"
+            },
+            {
+                "eventBlockDays": [
+                    {
+                        "dayNumber": 7,
+                        "startTime": "02:00:00.000",
+                        "endTime": "03:00:00.000",
+                        "eventSetupType": "BANQUET",
+                        "roomSize": {
+                            "size": 23.0,
+                            "measurementUnits": "SQUARE_METERS"
+                        },
+                        "attendeeQuantity": 23,
+                        "isTwentyFourHourHold": true,
+                        "eventName": "风光好",
+                        "comments": "2323"
+                    }
+                ],
+                "eventBlockName": "Day_7_LUNCH_2",
+                "eventType": "LUNCH"
+            },
+            {
+                "eventBlockDays": [
+                    {
+                        "dayNumber": 8,
+                        "startTime": "02:00:00.000",
+                        "endTime": "03:00:00.000",
+                        "eventSetupType": "BANQUET",
+                        "roomSize": {
+                            "size": 23.0,
+                            "measurementUnits": "SQUARE_METERS"
+                        },
+                        "attendeeQuantity": 23,
+                        "isTwentyFourHourHold": true,
+                        "eventName": "sdfsdf",
+                        "comments": "232323"
+                    }
+                ],
+                "eventBlockName": "Day_8_AUDIO_VISUAL_1",
+                "eventType": "AUDIO_VISUAL"
+            },
+            {
+                "eventBlockDays": [
+                    {
+                        "dayNumber": 8,
+                        "startTime": "02:00:00.000",
+                        "endTime": "03:00:00.000",
+                        "eventSetupType": "BANQUET",
+                        "roomSize": {
+                            "size": 23.0,
+                            "measurementUnits": "SQUARE_METERS"
+                        },
+                        "attendeeQuantity": 23,
+                        "isTwentyFourHourHold": true,
+                        "eventName": "风光好",
+                        "comments": "2323"
+                    }
+                ],
+                "eventBlockName": "Day_8_LUNCH_2",
+                "eventType": "LUNCH"
+            },
+            {
+                "eventBlockDays": [
+                    {
+                        "dayNumber": 9,
+                        "startTime": "02:00:00.000",
+                        "endTime": "03:00:00.000",
+                        "eventSetupType": "BANQUET",
+                        "roomSize": {
+                            "size": 23.0,
+                            "measurementUnits": "SQUARE_METERS"
+                        },
+                        "attendeeQuantity": 23,
+                        "isTwentyFourHourHold": true,
+                        "eventName": "风光好",
+                        "comments": "2323"
+                    }
+                ],
+                "eventBlockName": "Day_9_LUNCH_1",
+                "eventType": "LUNCH"
+            },
+            {
+                "eventBlockDays": [
+                    {
+                        "dayNumber": 9,
+                        "startTime": "02:00:00.000",
+                        "endTime": "03:00:00.000",
+                        "eventSetupType": "BANQUET",
+                        "roomSize": {
+                            "size": 23.0,
+                            "measurementUnits": "SQUARE_METERS"
+                        },
+                        "attendeeQuantity": 23,
+                        "isTwentyFourHourHold": true,
+                        "eventName": "sdfsdf",
+                        "comments": "232323"
+                    }
+                ],
+                "eventBlockName": "Day_9_AUDIO_VISUAL_2",
+                "eventType": "AUDIO_VISUAL"
+            },
+            {
+                "eventBlockDays": [
+                    {
+                        "dayNumber": 10,
+                        "startTime": "02:00:00.000",
+                        "endTime": "03:00:00.000",
+                        "eventSetupType": "BANQUET",
+                        "roomSize": {
+                            "size": 23.0,
+                            "measurementUnits": "SQUARE_METERS"
+                        },
+                        "attendeeQuantity": 23,
+                        "isTwentyFourHourHold": true,
+                        "eventName": "sdfsdf",
+                        "comments": "232323"
+                    }
+                ],
+                "eventBlockName": "Day_10_AUDIO_VISUAL_1",
+                "eventType": "AUDIO_VISUAL"
+            },
+            {
+                "eventBlockDays": [
+                    {
+                        "dayNumber": 10,
+                        "startTime": "02:00:00.000",
+                        "endTime": "03:00:00.000",
+                        "eventSetupType": "BANQUET",
+                        "roomSize": {
+                            "size": 23.0,
+                            "measurementUnits": "SQUARE_METERS"
+                        },
+                        "attendeeQuantity": 23,
+                        "isTwentyFourHourHold": true,
+                        "eventName": "风光好",
+                        "comments": "2323"
+                    }
+                ],
+                "eventBlockName": "Day_10_LUNCH_2",
+                "eventType": "LUNCH"
+            },
+            {
+                "eventBlockDays": [
+                    {
+                        "dayNumber": 11,
+                        "startTime": "02:00:00.000",
+                        "endTime": "03:00:00.000",
+                        "eventSetupType": "BANQUET",
+                        "roomSize": {
+                            "size": 23.0,
+                            "measurementUnits": "SQUARE_METERS"
+                        },
+                        "attendeeQuantity": 23,
+                        "isTwentyFourHourHold": true,
+                        "eventName": "sdfsdf",
+                        "comments": "232323"
+                    }
+                ],
+                "eventBlockName": "Day_11_AUDIO_VISUAL_1",
+                "eventType": "AUDIO_VISUAL"
+            },
+            {
+                "eventBlockDays": [
+                    {
+                        "dayNumber": 11,
+                        "startTime": "02:00:00.000",
+                        "endTime": "03:00:00.000",
+                        "eventSetupType": "BANQUET",
+                        "roomSize": {
+                            "size": 23.0,
+                            "measurementUnits": "SQUARE_METERS"
+                        },
+                        "attendeeQuantity": 23,
+                        "isTwentyFourHourHold": true,
+                        "eventName": "风光好",
+                        "comments": "2323"
+                    }
+                ],
+                "eventBlockName": "Day_11_LUNCH_2",
+                "eventType": "LUNCH"
+            },
+            {
+                "eventBlockDays": [
+                    {
+                        "dayNumber": 12,
+                        "startTime": "02:00:00.000",
+                        "endTime": "03:00:00.000",
+                        "eventSetupType": "BANQUET",
+                        "roomSize": {
+                            "size": 23.0,
+                            "measurementUnits": "SQUARE_METERS"
+                        },
+                        "attendeeQuantity": 23,
+                        "isTwentyFourHourHold": true,
+                        "eventName": "sdfsdf",
+                        "comments": "232323"
+                    }
+                ],
+                "eventBlockName": "Day_12_AUDIO_VISUAL_1",
+                "eventType": "AUDIO_VISUAL"
+            },
+            {
+                "eventBlockDays": [
+                    {
+                        "dayNumber": 12,
+                        "startTime": "02:00:00.000",
+                        "endTime": "03:00:00.000",
+                        "eventSetupType": "BANQUET",
+                        "roomSize": {
+                            "size": 23.0,
+                            "measurementUnits": "SQUARE_METERS"
+                        },
+                        "attendeeQuantity": 23,
+                        "isTwentyFourHourHold": true,
+                        "eventName": "风光好",
+                        "comments": "2323"
+                    }
+                ],
+                "eventBlockName": "Day_12_LUNCH_2",
+                "eventType": "LUNCH"
+            },
+            {
+                "eventBlockDays": [
+                    {
+                        "dayNumber": 1,
+                        "startTime": "02:00:00.000",
+                        "endTime": "03:00:00.000",
+                        "eventSetupType": "BANQUET",
+                        "roomSize": {
+                            "size": 23.0,
+                            "measurementUnits": "SQUARE_METERS"
+                        },
+                        "attendeeQuantity": 23,
+                        "isTwentyFourHourHold": true,
+                        "eventName": "风光好",
+                        "comments": "2323"
+                    }
+                ],
+                "eventBlockName": "Day_1_Lunch",
+                "eventType": "LUNCH"
+            },
+            {
+                "eventBlockDays": [
+                    {
+                        "dayNumber": 2,
+                        "startTime": "02:00:00.000",
+                        "endTime": "03:00:00.000",
+                        "eventSetupType": "BANQUET",
+                        "roomSize": {
+                            "size": 23.0,
+                            "measurementUnits": "SQUARE_METERS"
+                        },
+                        "attendeeQuantity": 23,
+                        "isTwentyFourHourHold": true,
+                        "eventName": "风光好",
+                        "comments": "2323"
+                    }
+                ],
+                "eventBlockName": "Day_2_Lunch",
+                "eventType": "LUNCH"
+            },
+            {
+                "eventBlockDays": [
+                    {
+                        "dayNumber": 3,
+                        "startTime": "02:00:00.000",
+                        "endTime": "03:00:00.000",
+                        "eventSetupType": "BANQUET",
+                        "roomSize": {
+                            "size": 23.0,
+                            "measurementUnits": "SQUARE_METERS"
+                        },
+                        "attendeeQuantity": 23,
+                        "isTwentyFourHourHold": true,
+                        "eventName": "风光好",
+                        "comments": "2323"
+                    }
+                ],
+                "eventBlockName": "Day_3_Lunch",
+                "eventType": "LUNCH"
+            },
+            {
+                "eventBlockDays": [
+                    {
+                        "dayNumber": 4,
+                        "startTime": "02:00:00.000",
+                        "endTime": "03:00:00.000",
+                        "eventSetupType": "BANQUET",
+                        "roomSize": {
+                            "size": 23.0,
+                            "measurementUnits": "SQUARE_METERS"
+                        },
+                        "attendeeQuantity": 23,
+                        "isTwentyFourHourHold": true,
+                        "eventName": "风光好",
+                        "comments": "2323"
+                    }
+                ],
+                "eventBlockName": "Day_4_Lunch",
+                "eventType": "LUNCH"
+            },
+            {
+                "eventBlockDays": [
+                    {
+                        "dayNumber": 5,
+                        "startTime": "02:00:00.000",
+                        "endTime": "03:00:00.000",
+                        "eventSetupType": "BANQUET",
+                        "roomSize": {
+                            "size": 23.0,
+                            "measurementUnits": "SQUARE_METERS"
+                        },
+                        "attendeeQuantity": 23,
+                        "isTwentyFourHourHold": true,
+                        "eventName": "风光好",
+                        "comments": "2323"
+                    }
+                ],
+                "eventBlockName": "Day_5_Lunch",
+                "eventType": "LUNCH"
+            },
+            {
+                "eventBlockDays": [
+                    {
+                        "dayNumber": 6,
+                        "startTime": "02:00:00.000",
+                        "endTime": "03:00:00.000",
+                        "eventSetupType": "BANQUET",
+                        "roomSize": {
+                            "size": 23.0,
+                            "measurementUnits": "SQUARE_METERS"
+                        },
+                        "attendeeQuantity": 23,
+                        "isTwentyFourHourHold": true,
+                        "eventName": "风光好",
+                        "comments": "2323"
+                    }
+                ],
+                "eventBlockName": "Day_6_Lunch",
+                "eventType": "LUNCH"
+            },
+            {
+                "eventBlockDays": [
+                    {
+                        "dayNumber": 7,
+                        "startTime": "02:00:00.000",
+                        "endTime": "03:00:00.000",
+                        "eventSetupType": "BANQUET",
+                        "roomSize": {
+                            "size": 23.0,
+                            "measurementUnits": "SQUARE_METERS"
+                        },
+                        "attendeeQuantity": 23,
+                        "isTwentyFourHourHold": true,
+                        "eventName": "风光好",
+                        "comments": "2323"
+                    }
+                ],
+                "eventBlockName": "Day_7_Lunch",
+                "eventType": "LUNCH"
+            },
+            {
+                "eventBlockDays": [
+                    {
+                        "dayNumber": 8,
+                        "startTime": "02:00:00.000",
+                        "endTime": "03:00:00.000",
+                        "eventSetupType": "BANQUET",
+                        "roomSize": {
+                            "size": 23.0,
+                            "measurementUnits": "SQUARE_METERS"
+                        },
+                        "attendeeQuantity": 23,
+                        "isTwentyFourHourHold": true,
+                        "eventName": "风光好",
+                        "comments": "2323"
+                    }
+                ],
+                "eventBlockName": "Day_8_Lunch",
+                "eventType": "LUNCH"
+            },
+            {
+                "eventBlockDays": [
+                    {
+                        "dayNumber": 9,
+                        "startTime": "02:00:00.000",
+                        "endTime": "03:00:00.000",
+                        "eventSetupType": "BANQUET",
+                        "roomSize": {
+                            "size": 23.0,
+                            "measurementUnits": "SQUARE_METERS"
+                        },
+                        "attendeeQuantity": 23,
+                        "isTwentyFourHourHold": true,
+                        "eventName": "风光好",
+                        "comments": "2323"
+                    }
+                ],
+                "eventBlockName": "Day_9_Lunch",
+                "eventType": "LUNCH"
+            },
+            {
+                "eventBlockDays": [
+                    {
+                        "dayNumber": 10,
+                        "startTime": "02:00:00.000",
+                        "endTime": "03:00:00.000",
+                        "eventSetupType": "BANQUET",
+                        "roomSize": {
+                            "size": 23.0,
+                            "measurementUnits": "SQUARE_METERS"
+                        },
+                        "attendeeQuantity": 23,
+                        "isTwentyFourHourHold": true,
+                        "eventName": "风光好",
+                        "comments": "2323"
+                    }
+                ],
+                "eventBlockName": "Day_10_Lunch",
+                "eventType": "LUNCH"
+            },
+            {
+                "eventBlockDays": [
+                    {
+                        "dayNumber": 11,
+                        "startTime": "02:00:00.000",
+                        "endTime": "03:00:00.000",
+                        "eventSetupType": "BANQUET",
+                        "roomSize": {
+                            "size": 23.0,
+                            "measurementUnits": "SQUARE_METERS"
+                        },
+                        "attendeeQuantity": 23,
+                        "isTwentyFourHourHold": true,
+                        "eventName": "风光好",
+                        "comments": "2323"
+                    }
+                ],
+                "eventBlockName": "Day_11_Lunch",
+                "eventType": "LUNCH"
+            },
+            {
+                "eventBlockDays": [
+                    {
+                        "dayNumber": 12,
+                        "startTime": "02:00:00.000",
+                        "endTime": "03:00:00.000",
+                        "eventSetupType": "BANQUET",
+                        "roomSize": {
+                            "size": 23.0,
+                            "measurementUnits": "SQUARE_METERS"
+                        },
+                        "attendeeQuantity": 23,
+                        "isTwentyFourHourHold": true,
+                        "eventName": "风光好",
+                        "comments": "2323"
+                    }
+                ],
+                "eventBlockName": "Day_12_Lunch",
+                "eventType": "LUNCH"
+            }
+        ]
+    },
+    "comments": "阿斯顿发松岛枫",
+    "allowRedirect": false,
+    "isCommissionable": false,
+    "urLs": [
+        {
+            "isSelected": false,
+            "name": "松岛枫松岛枫",
+            "type": "txt",
+            "link": "http://carfpdev.starcite.com/file/66963191-4D30-4680-9133-988F83B8AE94/2013/9/2/1378114778878/Meeting Level Attachment.txt"
+        }
+    ],
+    "peakRoomNights": 9,
+    "totalRoomNights": 94
+}, "vendorOids": [], "hasMeetingRoom": true, "hasGuestRoom": true}

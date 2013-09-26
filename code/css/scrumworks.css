@@ -1,0 +1,144 @@
+#displayDailyUpdateButton {
+  width: 400px;
+}
+
+#dailyUpdateTable {
+  border: 1px solid;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+
+#dailyUpdateTable tr {
+  height: 30px;
+}
+
+#dailyUpdateTable span {
+  cursor: default;
+}
+
+#dailyUpdateTable tr:first-child {
+  background-color: #dbdbdb;
+}
+
+.userStory1 {
+  background-color: #FCFCFC;
+}
+
+.userStory2 {
+  background-color: #F1F1F1;
+}
+
+.userStory3 {
+  background-color: #FCFCFC;
+}
+
+.userStory4 {
+  background-color: #F1F1F1;
+}
+
+.userStory5 {
+  background-color: #FCFCFC;
+}
+
+.userStory6 {
+  background-color: #F1F1F1;
+}
+
+.userStory7 {
+  background-color: #FCFCFC;
+}
+
+.userStory8 {
+  background-color: #F1F1F1;
+}
+
+.userStory9 {
+  background-color: #FCFCFC;
+}
+
+.userStory10 {
+  background-color: #F1F1F1;
+}
+
+#printToBasecamp {
+  float: right;
+}
+
+#formatResult textarea {
+  width: 1200px;
+  height: 250px;
+}
+
+#gotoBasecamp {
+  display: none;
+  float: right;
+}
+
+#printToEmail {
+  float: right;
+}
+
+.addOwnerLink {
+  color: red;
+  font-weight: bold;
+}
+
+.hide {
+  display: none;
+}
+
+#showAll {
+  float: right;
+}
+
+.increase {
+  height: 20px;
+}
+
+.decrease {
+  height: 20px;
+}
+
+.todoHourTD {
+  text-align: center;
+}
+
+.todoHourEmailTD {
+  text-align: center;
+}
+
+#dailyUpdateTeam {
+  margin: 10px 0;
+}
+
+#todoTimeline {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+#todoTimelineTable {
+  border: 1px solid black;
+  width: 1100px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#todoTimelineTable th {
+  background-color: lightgray;
+  height: 25px;
+}
+
+#timeLineTask {
+  width: 700px;
+  margin-left: 100px;
+}
+
+.deleteTimeLineTask {
+  margin-left: 5px;
+  cursor: pointer;
+}
+
+#baseCampUrl {
+  width:700px;
+}
